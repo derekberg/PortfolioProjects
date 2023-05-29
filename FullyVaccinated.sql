@@ -1,3 +1,5 @@
+-- finding the percent of each country's population that are vaccinated
+
 with cte as (select cd.continent,
 	   cd.location,
 	   cd.date,
