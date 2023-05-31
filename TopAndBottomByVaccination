@@ -39,4 +39,4 @@ where rn > 1
 order by 2 
 limit 6)
 
-order by pct_people_fully_vaccinated desc
+order by pct_people_fully_vaccinated desc;
